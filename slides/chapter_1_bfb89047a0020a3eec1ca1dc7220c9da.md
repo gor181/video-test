@@ -46,6 +46,28 @@ script
 
 
 ---
+## dklasndlkasndlkas
+
+```yaml
+type: TwoColumns
+key: 019ce1b973
+```
+
+`@part1`
+asdsadd
+
+`@part2`
+dasdsadsasa
+
+
+
+
+`@script`
+
+
+
+
+---
 ## Final Slide
 
 ```yaml
