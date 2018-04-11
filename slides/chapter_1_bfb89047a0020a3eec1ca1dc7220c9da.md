@@ -24,6 +24,28 @@ title: Instructor
 
 
 ---
+## this is a title
+
+```yaml
+type: TwoColumns
+key: 1f6f2335ae
+```
+
+`@part1`
+part 1
+
+`@part2`
+part 2
+
+
+
+
+`@script`
+script
+
+
+
+---
 ## Final Slide
 
 ```yaml
