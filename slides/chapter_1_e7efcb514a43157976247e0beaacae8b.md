@@ -24,6 +24,26 @@ title: Instructor
 
 
 ---
+## this is a full code slide
+
+```yaml
+type: FullCodeSlide
+key: 37932d670f
+```
+
+`@part1`
+part 1
+
+
+
+
+
+`@script`
+script
+
+
+
+---
 ## Final Slide
 
 ```yaml
