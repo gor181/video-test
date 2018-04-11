@@ -24,50 +24,6 @@ title: Instructor
 
 
 ---
-## goran was here
-
-```yaml
-type: TwoColumns
-key: 1f6f2335ae
-```
-
-`@part1`
-part 1
-
-`@part2`
-part 2
-
-
-
-
-`@script`
-script
-
-
-
----
-## dklasndlkasndlkas
-
-```yaml
-type: TwoColumns
-key: 019ce1b973
-```
-
-`@part1`
-asdsadd
-
-`@part2`
-dasdsadsasa
-
-
-
-
-`@script`
-
-
-
-
----
 ## Final Slide
 
 ```yaml
