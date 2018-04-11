@@ -41,3 +41,17 @@ key: 43271283eb
 
 `@projector_key`
 e7efcb514a43157976247e0beaacae8b
+
+---
+## new video exercise
+
+```yaml
+type: VideoExercise
+
+xp: undefined
+
+key: a6be245e5f
+```
+
+`@projector_key`
+bfb89047a0020a3eec1ca1dc7220c9da
