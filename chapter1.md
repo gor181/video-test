@@ -29,7 +29,7 @@ key: 6c9648b44e
 
 
 ---
-## Insert exercise title here
+## renamed
 
 ```yaml
 type: VideoExercise
